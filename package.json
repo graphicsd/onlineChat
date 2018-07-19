@@ -1,0 +1,13 @@
+{
+	"name": "socket-chatRoom",
+	"version": "0.0.1",
+	"description": "a chatRoom based on socket",
+	"scripts": {
+    "start": "node index.js"
+  },
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.15.2",
+		"socket.io": "^2.1.1"
+	}
+}
